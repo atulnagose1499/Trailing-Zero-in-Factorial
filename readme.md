@@ -1,0 +1,1 @@
+A trailing zero is a zero digit in the representation of a number which has no non-zero digits that are less significant than the zero digit. Put more simply, it is a zero digit with no non-zero digits to the right of it.
